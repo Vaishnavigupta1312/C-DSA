@@ -64,6 +64,4 @@ int main(){
 
     cout<<"OR : " <<(5>4 || 3>7) <<endl;   //logical or operator returns false only when all the arguments are false
 
-
-
 }
