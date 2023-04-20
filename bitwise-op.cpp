@@ -18,6 +18,16 @@ int main(){
     cout<<(19<<1)<<endl;
     cout<<(21<<2)<<endl;
     
+    // post/pre - increement, decreement
+    int i=7;
+    cout<<(++i)<<endl;          //pre-increement
+    // 8, i=8
+    cout<<(i++)<<endl;          //post-increement
+    // 8, i=9
+    cout<<(i--)<<endl;          //post-decreement
+    // 9, i=8
+    cout<<(--i)<<endl;          //pre-decreement
+    // 7, i=7
 
-
+    
 }
