@@ -28,7 +28,5 @@ int main(){
     // 9, i=8
     cout<<(--i)<<endl;          //pre-decreement
     // 7, i=7
-
-    jcalkdclk
     
 }
